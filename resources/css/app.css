@@ -18,3 +18,40 @@ body {
 h1 {
     font-size: 28px;
 }
+
+.logo {
+    width: 90px;
+    height: 90px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    height: 100px;
+    width: 100%;
+    background-color: beige;
+    display: flex;
+    flex-direction: row;
+}
+
+main {
+
+}
+
+footer {
+    height: 100px;
+    width: 100%;
+    background-color: black;
+}
+
+.copyright {
+    color: white;
+}
+
+.img_item {
+    width: 200px;
+    height: 200px;
+}
